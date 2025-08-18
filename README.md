@@ -1,64 +1,55 @@
-# 👋 Hi, I'm Ganesh  
 
-🚀 **Aspiring Data Analyst | Python Enthusiast | Problem Solver**  
+# 👋 Hi, I'm Ganesh
 
-I’m passionate about transforming raw data into meaningful insights using Python, SQL, and visualization tools. My goal is to apply data analytics techniques to solve real-world problems and help businesses make data-driven decisions.  
+🚀 ** Data Analyst | Python Enthusiast | Problem Solver**
 
----
-
-## 🔍 About Me  
-- 🎓 Background: Interested in **Data Analytics & Machine Learning**  
-- 💡 Currently exploring: **Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL**  
-- 🛠️ Hands-on practice with: **Jupyter Notebook, VS Code, GitHub**  
-- 🌱 Learning everyday through projects & challenges  
-- 📊 Love turning **data into stories** using visualization  
+I’m passionate about turning raw data into valuable insights using Python, SQL, and visualization tools. My goal is to apply analytics to real-world problems and help businesses make data-driven decisions.
 
 ---
 
-## ⚡ Tech Stack & Skills  
+## 🔍 About Me
 
-**Programming & Data Handling**  
-- Python (Pandas, NumPy)  
-- SQL (MySQL, SQLite)  
-- Excel (Pivot Tables, VLOOKUP, Charts)  
-
-**Visualization & BI Tools**  
-- Matplotlib, Seaborn  
-- Power BI, Tableau  
-
-**Data Science Concepts**  
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Basic Machine Learning (Scikit-learn)  
-
-**Version Control & Collaboration**  
-- Git, GitHub  
+* 🎓 Background in **Data Analytics & Machine Learning**
+* 💡 Exploring: **Pandas, NumPy, SQL, Power BI, Matplotlib, Seaborn**
+* 🛠️ Tools I use: **Jupyter Notebook, VS Code, GitHub**
+* 🌱 Continuously learning through practice & challenges
+* 📊 Strong interest in **data storytelling & visualization**
 
 ---
 
-## 📌 Projects  
+## ⚡ Tech Stack & Skills
 
-🔹 **[Bollywood Movies Dataset Analysis](#)** – Data wrangling, cleaning & visualization with Pandas + Matplotlib  
-🔹 **[Sales Data Insights](#)** – Analyzing sales patterns & trends using NumPy + Visualization  
-🔹 **[Sudoku Array Operations](#)** – Numpy-based project for array manipulations & analytics  
-🔹 More coming soon...  
+**Programming & Data Handling**
+
+* Python (Pandas, NumPy)
+* SQL (MySQL, SQLite)
+* Excel (Pivot Tables, VLOOKUP, Charts)
+
+**Visualization & BI Tools**
+
+* Power BI, Tableau
+* Matplotlib, Seaborn
+
+**Data Analytics Concepts**
+
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* Reporting & Dashboarding
+
+**Version Control & Collaboration**
+
+* Git, GitHub
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh20000&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh20000\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh20000&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
-- 📧 ganesh@example.com *(replace with your real email)*  
-- 🐦 [Twitter](https://twitter.com/) *(optional)*  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh20000\&layout=compact\&theme=tokyonight)
 
 ---
 
-⭐ *“Data is the new oil, but insight is the spark that ignites it.”*  
+
+Do you also want me to **add a small “Experience” section** (even if it’s just internships, self-learning, or practice) so it looks more like a **Data Analyst profile**?
+**
